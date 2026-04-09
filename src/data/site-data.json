@@ -1,0 +1,113 @@
+{
+  "brand": {
+    "name": "Dilo",
+    "logo": "https://placehold.co/150x50/111111/FFFFFF?text=Dilo",
+    "primaryColor": "#050505",
+    "accentColor": "#0ea5e9"
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "title": "Inglés de alta Precisión",
+      "subtitle": "Mientras que la demanda de profesionales bilingües aumenta en latinoamérica, los métodos de enseñanza obsoletos siguen entregando resultados insuficientes que limitan su crecimiento personal y laboral.",
+      "image": "https://placehold.co/1200x800",
+      "cta": { "text": "Aplicá para unirte", "link": "#apply" }
+    },
+    {
+      "id": "stats",
+      "type": "stats",
+      "title": "Los datos son contundentes",
+      "items": [
+        { "value": 90, "suffix": "%", "label": "de la población no logra dominar un segundo idioma." },
+        { "value": 81.1, "suffix": "%", "label": "de los empleadores confirma que el talento bilingüe disponible no es suficiente." },
+        { "value": 46.7, "suffix": "%", "label": "de los profesionales que ya utilizan el inglés admiten sentirse inseguros al conversar." }
+      ]
+    },
+    {
+      "id": "quote1",
+      "type": "quote",
+      "text": "Durante décadas hemos sido limitados por una enseñanza que priorizó la memorización académica resultando en una brecha de talento bilingüe sin precedentes.",
+      "author": "El Problema Actual"
+    },
+    {
+      "id": "solution",
+      "type": "text-image",
+      "imagePosition": "left",
+      "title": "Dilo busca solucionar este problema.",
+      "content": "Practicar con un búho o un cyborg digital no te va a dar seguridad en una entrevista o reunión de trabajo. No es un ataque a nadie; es la realidad del mercado. Nuestro coaching te saca del estancamiento para ponerte en el 10% que sí domina el idioma.",
+      "image": "https://placehold.co/800x800"
+    },
+    {
+      "id": "features",
+      "type": "features",
+      "title": "Nuestra Metodología",
+      "items": [
+        {
+          "icon": "BrainCircuit",
+          "title": "Mindset",
+          "description": "La mentalidad correcta genera resultados. Eliminamos la cultura del regaño; aquí tienes guía y apoyo total. El error es una oportunidad de mejora."
+        },
+        {
+          "icon": "Wrench",
+          "title": "Técnica",
+          "description": "No sirve saturarse de teoría si no se practica. Priorizamos la simplicidad para que cada estructura gramatical sea una herramienta de uso inmediato."
+        },
+        {
+          "icon": "Crosshair",
+          "title": "Precisión",
+          "description": "Utilizamos IA para diagnosticar y corregir errores de forma quirúrgica, asegurando que entiendas el 'por qué' del inglés americano."
+        }
+      ]
+    },
+    {
+      "id": "quote2",
+      "type": "quote",
+      "text": "Tu crecimiento laboral empieza con resultados, no con certificados de asistencia o exámenes. Nuestro programa prioriza la fluidez y la seguridad verbal que exige el mercado.",
+      "author": "El Enfoque Dilo"
+    },
+    {
+      "id": "companies",
+      "type": "logo-carousel",
+      "title": "Desde startups hasta gigantes corporativos",
+      "subtitle": "Nuestros estudiantes son contratados por empresas transnacionales de gran prestigio.",
+      "logos": [
+        "https://placehold.co/200x100/111111/FFFFFF?text=Logo+1",
+        "https://placehold.co/200x100/111111/FFFFFF?text=Logo+2",
+        "https://placehold.co/200x100/111111/FFFFFF?text=Logo+3",
+        "https://placehold.co/200x100/111111/FFFFFF?text=Logo+4",
+        "https://placehold.co/200x100/111111/FFFFFF?text=Logo+5"
+      ]
+    },
+    {
+      "id": "testimonials",
+      "type": "testimonials",
+      "title": "Testimonios",
+      "items": [
+        { "name": "Estudiante 1", "role": "Software Engineer", "text": "Dilo me dio la seguridad para pasar mi entrevista técnica en inglés." },
+        { "name": "Estudiante 2", "role": "Project Manager", "text": "Ya no tengo miedo de hablar en las reuniones diarias con clientes de USA." },
+        { "name": "Estudiante 3", "role": "Marketing Specialist", "text": "Excelente metodología. La corrección con IA es increíblemente precisa." },
+        { "name": "Estudiante 4", "role": "UX Designer", "text": "He mejorado mi pronunciación y fluidez en solo un par de meses." },
+        { "name": "Estudiante 5", "role": "Data Analyst", "text": "El enfoque en conversar en lugar de solo gramática cambió las reglas del juego." }
+      ]
+    },
+    {
+      "id": "apply",
+      "type": "cta-section",
+      "title": "El mercado global no premia el esfuerzo, premia los resultados.",
+      "subtitle": "¿Cuánto te cuesta hoy no hablar inglés con seguridad?",
+      "instructions": [
+        "Completa nuestro formulario de admisión",
+        "Agenda una llamada de diagnóstico",
+        "Descubre tu plan de acción personalizado"
+      ],
+      "email": "hola@dilo.club"
+    }
+  ],
+  "footer": {
+    "text": "© 2026 Dilo Club. Todos los derechos reservados.",
+    "links": [
+      { "text": "Términos y Condiciones", "url": "#" }
+    ]
+  }
+}
